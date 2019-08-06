@@ -1,0 +1,11 @@
+
+.project
+.DS_Store
+.classpath
+.idea
+.idea/vcs.xml
+/out
+ClienteRest.iml
+
+
+
